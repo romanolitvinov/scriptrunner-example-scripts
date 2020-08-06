@@ -1,0 +1,1 @@
+Example *.groovy file for scriptrunner

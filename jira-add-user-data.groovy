@@ -5,7 +5,6 @@ final userName = "rolitvinov"
 // The key of the user property to set
 final userPropertyKey = "jira.meta.phone"
 
-
 // The value of the user property
 final userPropertyValue = "data"
 
